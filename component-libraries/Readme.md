@@ -13,7 +13,8 @@
 ## Carousels
 
 keen-slider [Keen Slider](https://keen-slider.io/docs).
-<a href="https://Keen-slider.io/docs" target="_blank" rel="noreferrer noopener">keen-slider</a>
+<p>Keen Slider<a href="https://Keen-slider.io/docs" target="_blank" rel="noreferrer noopener">keen-slider</a>
+</p>
 
 ### FileUpload
 
@@ -22,4 +23,4 @@ Upload files to S3
 
 ## Chatbot
 
-[chatscope](https://chatscope.io/)
+Chatscope [chatscope](https://chatscope.io/)
