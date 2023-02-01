@@ -24,3 +24,5 @@ Upload files to S3
 ## Chatbot
 
 Chatscope [chatscope](https://chatscope.io/)
+
+<p>Check out <a href="https://www.freecodecamp.org/" target="_blank" rel="noopener noreferrer">freeCodeCamp</a>.</p>
