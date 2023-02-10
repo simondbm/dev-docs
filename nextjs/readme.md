@@ -7,6 +7,7 @@
 ## Templates
 
 [templates](https://vercel.com/templates/next.js/skeleton)
+[githubtemplates](https://github.com/topics/nextjs-template)
 
 ## Youtube
 

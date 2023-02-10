@@ -3,6 +3,6 @@
     "allowed_elements": ["a", "span", "p"]
   },
   "MD013": {
-    "line_length": 120
+    "line_length": 200
   }
 }

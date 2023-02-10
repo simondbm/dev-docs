@@ -1,15 +1,21 @@
 # Reactjs
 
+## Table of Contents
+
+- [Hooks](#hooks)
+- [Youtube](#templates)
+- [Errors](#errors)
+
 ## Articles
 
-### Forms
+## Forms
 
 Depending on your organizations domain, Visualizer can be launched from any
 web browser [Data Binding](https://www.joshwcomeau.com/react/data-binding/).
 
-### Typescript
+## Typescript
 
-#### Children
+## Children
 
 type LayoutProps = {
   children: React.ReactNode;
